@@ -1,4 +1,4 @@
-let oxigenio = Number(prompt("Insira a quantidade de oxigênio restante (em litros):"));
+alert("Olá Neymar Jr");
 let pessoas = Number(prompt("Informe a quantidades de pessoas em Marte"));
 
 const consumoDiario = 15; // litros por pessoa. 
